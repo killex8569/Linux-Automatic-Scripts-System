@@ -1,1 +1,10 @@
 #!/bin/bash
+
+menu(){
+
+
+    
+}
+
+
+menu
