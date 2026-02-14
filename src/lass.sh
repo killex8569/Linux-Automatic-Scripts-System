@@ -18,7 +18,7 @@ main_menu(){
     cat ASCII_lass.txt
     echo 
     echo "Que voulez-vous faire ?"
-    echo -e "0 - \nq - Quitter"
+    echo -e "0 - Consulter la liste des scripts\n2 - Executer un script\n3 - Configurer un script\n4 - Ajouter une tâche au cron\nq - Quitter"
     echo
 
     read -rp "Votre choix : " choix
